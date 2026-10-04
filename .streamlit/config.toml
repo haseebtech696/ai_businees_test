@@ -1,0 +1,9 @@
+[client]
+showErrorDetails = "none"      # never show Python tracebacks in the browser
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#2563eb"

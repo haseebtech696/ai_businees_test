@@ -1,0 +1,20 @@
+# Who is sending the outreach. EDIT THIS FILE: the Communication agent writes every email from it.
+agency_name: "Brightpath Digital"
+sender_name: "Sam Carter"
+sender_title: "Founder"
+website: "https://brightpath.example"
+tone: "friendly, concise and professional; plain language; no hype, no pressure, no jargon"
+services:
+  - "Website redesign focused on turning visitors into enquiries"
+  - "Online booking and appointment-request set-up"
+  - "Local SEO and Google Business Profile optimisation"
+offer_summary: "We help small local businesses get more enquiries from the website they already have."
+
+meeting:
+  title: "Intro call"
+  duration_min: 30
+  timezone: "Pakistan time"
+  available_slots:
+    - "Tue 10:00"
+    - "Wed 14:00"
+    - "Thu 11:30"
